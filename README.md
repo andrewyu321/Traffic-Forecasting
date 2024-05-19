@@ -4,3 +4,7 @@ This repository contains the code and resources for a traffic prediction project
 
 <img width="1388" alt="image" src="https://github.com/andrewyu321/Traffic-Predictor/assets/110316055/f4fe4abe-7907-4607-aaf2-41ad9c2f2b02">
 
+
+
+
+![image](https://github.com/andrewyu321/Traffic-Forecasting/assets/110316055/d3fba49d-5d52-4508-bf38-16498cc432ef)
