@@ -9,6 +9,7 @@ https://open.toronto.ca/dataset/traffic-volumes-at-intersections-for-all-modes/
 
 
 # Predictions
+I tested out SVM, Random Forest Regressor and XGBoost to see which one performed the best. The results showed that Random Forest Regressor performed the best.
 
 
 ![image](https://github.com/andrewyu321/Traffic-Forecasting/assets/110316055/6445ea39-e68c-411e-8b1d-050a56bc42fc)
